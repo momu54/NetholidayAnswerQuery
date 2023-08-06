@@ -1,0 +1,1 @@
+{"version":3,"file":"VerifyInstall.js","sourceRoot":"","sources":["../../src/modules/VerifyInstall.ts"],"names":[],"mappings":";AAAA;;;;;;;GAOG;AACH,MAAM,oBAAoB,GAAG,QAAQ,CAAC,cAAc,CACnD,8BAA8B,CACT,CAAC;AAEvB,IAAI,oBAAoB,IAAI,IAAI,EAAE;IACjC,oBAAoB,CAAC,QAAQ,GAAG,IAAI,CAAC,CAAC,MAAM;IAC5C,oBAAoB,CAAC,SAAS,GAAG,UAAU,CAAC,CAAC,QAAQ;CACrD"}

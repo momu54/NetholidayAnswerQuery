@@ -1,0 +1,30 @@
+{
+	"compilerOptions": {
+		"target": "ESNext" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
+		"module": "ESNext",
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"skipLibCheck": true,
+		/* Type Checking */
+		"strict": true,
+		"noImplicitAny": true,
+		"strictNullChecks": true,
+		"strictFunctionTypes": true,
+		"strictBindCallApply": true,
+		"strictPropertyInitialization": true,
+		"noImplicitThis": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"noImplicitReturns": true,
+		"alwaysStrict": true,
+		"moduleResolution": "NodeNext",
+		"resolveJsonModule": true,
+		"sourceMap": true,
+		"outDir": "dist"
+	},
+	"include": ["src/**/*.ts"],
+	"exclude": ["node_modules/**"],
+	"typeAcquisition": {
+		"include": ["firefox-webext-browser"]
+	}
+}

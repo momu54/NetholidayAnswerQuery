@@ -1,0 +1,20 @@
+{
+	"name": "netholiday_answer_query",
+	"version": "1.0.0",
+	"description": "",
+	"main": "bin/index.js",
+	"scripts": {
+		"build": "tsc",
+		"build:dev": "tsc -w"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT",
+	"dependencies": {
+		"typescript": "^5.1.6"
+	},
+	"devDependencies": {
+		"@types/firefox-webext-browser": "^111.0.1",
+		"web-ext": "^7.6.2"
+	}
+}
