@@ -1,11 +1,10 @@
 {
 	"compilerOptions": {
-		"target": "ESNext" /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */,
+		"target": "ESNext",
 		"module": "ESNext",
 		"esModuleInterop": true,
 		"forceConsistentCasingInFileNames": true,
 		"skipLibCheck": true,
-		/* Type Checking */
 		"strict": true,
 		"noImplicitAny": true,
 		"strictNullChecks": true,
